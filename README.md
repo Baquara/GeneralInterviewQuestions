@@ -1,4 +1,4 @@
-Explain like I am 10 years old what are CI/CD practices.
+Explain what are CI/CD practices.
 
 
 

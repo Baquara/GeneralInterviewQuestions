@@ -19,3 +19,11 @@ What Jenkins does?
 
 
 Jenkins is a popular open source CI/CD tool. It can be used to automate the process of building and testing code changes. Jenkins can also be used to automatically deploy code changes to a production environment.
+
+
+How to measure performance in SQL?
+
+
+The EXPLAIN keyword is used throughout various SQL databases and provides information about how your SQL database executes a query. In MySQL, EXPLAIN can be used in front of a query beginning with SELECT, INSERT, DELETE, REPLACE, and UPDATE. For a simple query, it would look like the following:
+
+EXPLAIN SELECT * FROM foo WHERE foo.bar = 'infrastructure as a service' OR foo.bar = 'iaas';

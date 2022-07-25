@@ -54,9 +54,8 @@ What is database normalization and how to do it?
 
 Database normalization is the process of organizing data into tables and columns in a way that minimizes redundancy and improves data integrity. To normalize a database, you first need to understand its structure and how the data is related. Once you have a good understanding of the data, you can then start to work on organizing it into tables and columns.
 
-Write the step by step process.
 
-There is no one-size-fits-all answer to this question, as the steps involved in database normalization will vary depending on the specific database and its structure. However, in general, the steps involved in database normalization are as follows:
+In general, the steps involved in database normalization are as follows:
 
 1. Analyze the structure of the database and identify the relationships between the data.
 

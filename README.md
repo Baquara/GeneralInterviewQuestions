@@ -46,3 +46,22 @@ Can you provide some examples when a relational e preferable and when a non rela
 A relational database is preferable when data is highly structured and relations between data are important. For example, a relational database would be preferable for storing data about customer orders, because the data is highly structured (e.g. each order has a customer ID, a product ID, and a quantity) and relations between data are important (e.g. we need to be able to relate an order to a customer and to a product).
 
 A non-relational database is preferable when data is less structured and relations between data are not as important. For example, a non-relational database would be preferable for storing data about customer preferences, because the data is less structured (e.g. a customer may have a preference for a certain type of product, but there is no need to specify which product they have this preference for) and relations between data are not as important (e.g. we do not need to be able to relate a customer preference to a specific product).
+
+
+What is database normalization and how to do it?
+
+
+
+Database normalization is the process of organizing data into tables and columns in a way that minimizes redundancy and improves data integrity. To normalize a database, you first need to understand its structure and how the data is related. Once you have a good understanding of the data, you can then start to work on organizing it into tables and columns.
+
+Write the step by step process.
+
+There is no one-size-fits-all answer to this question, as the steps involved in database normalization will vary depending on the specific database and its structure. However, in general, the steps involved in database normalization are as follows:
+
+1. Analyze the structure of the database and identify the relationships between the data.
+
+2. Organize the data into tables and columns.
+
+3. Remove redundancy from the database.
+
+4. Improve data integrity.
